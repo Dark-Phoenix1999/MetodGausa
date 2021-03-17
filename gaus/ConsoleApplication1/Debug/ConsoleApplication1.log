@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\PHOENIX\Desktop\c++\metod gausa\gaus\ConsoleApplication1\ConsoleApplication1.cpp(44,8): warning C4101: kaif: неиспользованная локальная переменная
+C:\Users\PHOENIX\Desktop\c++\metod gausa\gaus\ConsoleApplication1\ConsoleApplication1.cpp(46,13): warning C4101: xx: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\PHOENIX\Desktop\c++\metod gausa\gaus\Debug\ConsoleApplication1.exe
